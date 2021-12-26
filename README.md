@@ -1,2 +1,2 @@
-# titanic
-Titanic Survival Prediction
+# titanic ML
+Titanic Survival Prediction using Python and Google Colab
